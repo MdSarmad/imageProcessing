@@ -17,13 +17,13 @@ This project has three major parts:
 
 1. Ensure that you are in the project home directory and run the below command.
 
-*python cnn.py
+* python cnn.py
 
 This would create model.h5
 
 2. Run app.py using below command to start Flask API
 
-*python app.py
+* python app.py
 
 By default, Flask will run on port 5000
 
